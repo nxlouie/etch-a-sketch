@@ -1,11 +1,11 @@
 .box{
 	display: inline-block;
-	width:25px;
-	height:25px;
 	color:red;
 	border-width: 1px;
 	border-color:black;
 	border-style: solid;
+	margin-left:5px;
+	background-color:#ffffff;
 }
 
 .row{
